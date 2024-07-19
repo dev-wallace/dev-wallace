@@ -25,8 +25,9 @@ wallace-d-araujo" target="_blank"><img src="https://img.shields.io/badge/-Linked
 </div>
 <br>
 
+
 ## Card - Linguagens de programação 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yokaithefato&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-wallace&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
