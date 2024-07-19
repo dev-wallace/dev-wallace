@@ -32,9 +32,7 @@ wallace-d-araujo" target="_blank"><img src="https://img.shields.io/badge/-Linked
 ## Projetos em PowerBi
 **Clique no icone para visualizar**
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/22fe88d7-41b4-4ef3-a208-0a88f249ed70/ReportSection)
-## Minhas contribuicoes 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yokaithefato&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/yokaithefato/dio-lab-open-source)
 ## Card - Linguagens de programação 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yokaithefato&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
