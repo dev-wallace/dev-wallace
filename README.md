@@ -3,24 +3,25 @@
 
 
 ## Outras redes social que voce pode me encontrar:
- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wall.araujo_/)
- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@yokaithefato/) 
-## Habilidades
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) 
+ <a href="https://www.linkedin.com/in/
+wallace-d-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@yokaithefato/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wall.araujo_/)  <a href = "wallacewwc2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+ 
+  
+ 
+## <center> skills:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,git,github,idea,vscode" />
+</div>
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## Estudando atualmente:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,mysql,postman,react" />
+</div>
+<br>
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-## Estudando
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ## Projetos em PowerBi
 **Clique no icone para visualizar**
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/22fe88d7-41b4-4ef3-a208-0a88f249ed70/ReportSection)
@@ -35,3 +36,5 @@
 |-------|----------|
 |Ingles|Intermediario|
 -->
+
+
