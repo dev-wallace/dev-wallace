@@ -28,11 +28,14 @@ wallace-d-araujo" target="_blank"><img src="https://img.shields.io/badge/-Linked
     <a href="https://github.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" />
     </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=idea" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" />
     </a>
-    <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vscode" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" />
     </a>
 </div>
 
