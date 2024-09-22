@@ -14,16 +14,50 @@
 wallace-d-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@yokaithefato/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wall.araujo_/)  <a href = "mailto:wallacewwc2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-## <center> skills:
+## <center> Skills:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,github,idea,vscode" />
+    <a href="https://www.oracle.com/java/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" />
+    </a>
+    <a href="https://spring.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=spring" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" />
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" />
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=idea" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode" />
+    </a>
 </div>
 
 ## Estudando atualmente:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,mysql,postman,react" />
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" />
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" />
+    </a>
+    <a href="https://www.postman.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postman" />
+    </a>
+    <a href="https://react.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" />
+    </a>
 </div>
-<br>
+
 
 
 ## Card - Linguagens de programação 
