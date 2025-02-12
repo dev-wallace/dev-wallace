@@ -6,10 +6,21 @@
 </div>
 
 # Seja Bem-Vindo! 
-## Ola! Eu sou o Wallace
+### Ola! Eu sou o Wallace
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência em Java, Spring Boot, MySQL, PostgreSQL, HTML, CSS, JavaScript e Git. Estou sempre em busca de aprender mais e me adaptar rapidamente a novas tecnologias. Meu objetivo é criar soluções eficientes e continuar evoluindo como desenvolvedor.
+
+<p align="right">
+  <img height="200" style="border-radius: 50%;" src="https://github.com/user-attachments/assets/6fcf4ca6-1568-4472-915c-cef7c06337a6">
+</p>
 
 
-## 🌐 Outras redes social que voce pode me encontrar:
+
+
+
+
+
+### 🌐 Outras redes social que voce pode me encontrar:
  <a href="https://www.linkedin.com/in/
 wallace-d-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@yokaithefato/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wall.araujo_/)  <a href = "mailto:wallacewwc2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -63,8 +74,9 @@ wallace-d-araujo" target="_blank"><img src="https://img.shields.io/badge/-Linked
 
 
 
-## Card - Linguagens de programação 
+### Card - Linguagens de programação 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-wallace&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 
 
