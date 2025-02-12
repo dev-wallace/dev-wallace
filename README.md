@@ -8,7 +8,8 @@
 # Seja Bem-Vindo! 
 ### Ola! Eu sou o Wallace
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência em Java, Spring Boot, MySQL, PostgreSQL, HTML, CSS, JavaScript e Git. Estou sempre em busca de aprender mais e me adaptar rapidamente a novas tecnologias. Meu objetivo é criar soluções eficientes e continuar evoluindo como desenvolvedor.
+  <p style="max-width: 600px;">Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência em projetos pessoais Java, Spring Boot, MySQL, PostgreSQL, HTML, CSS, JavaScript e Git. Estou sempre em busca de aprender mais e me adaptar rapidamente a novas tecnologias. Meu objetivo é criar soluções eficientes e continuar evoluindo como desenvolvedor.</p>
+
 
 <p align="right">
   <img height="200" style="border-radius: 50%;" src="https://github.com/user-attachments/assets/6fcf4ca6-1568-4472-915c-cef7c06337a6">
