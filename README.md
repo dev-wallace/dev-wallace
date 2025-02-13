@@ -5,8 +5,8 @@
 
 </div>
 
-# Seja Bem-Vindo! 
-### Ola! Eu sou o Wallace
+# Wallace Araujo 
+
 
 <p align="justify">
   Sou um estudante de programação aprimorando meus conhecimentos full stack com Spring Boot, utilizando Java, PostgreSQL, Docker, HTML, CSS, JavaScript e Git. <br>
