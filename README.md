@@ -8,12 +8,15 @@
 # Seja Bem-Vindo! 
 ### Ola! Eu sou o Wallace
 
-  <p style="max-width: 600px;">Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência em projetos pessoais usando principalmente  Java, Spring Boot, MySQL, PostgreSQL, HTML, CSS, JavaScript e Git. Estou sempre em busca de aprender mais e me adaptar rapidamente a novas tecnologias. Meu objetivo é criar soluções eficientes e continuar evoluindo como desenvolvedor.</p>
-
-
-<p align="right">
-  <img height="200" style="border-radius: 50%;" src="https://github.com/user-attachments/assets/6fcf4ca6-1568-4472-915c-cef7c06337a6">
+<p align="justify">
+  Sou um estudante de programação aprimorando meus conhecimentos full stack com Spring Boot, utilizando Java, PostgreSQL, Docker, HTML, CSS, JavaScript e Git. <br>
+  Cursando Análise e Desenvolvimento de Sistemas no SENAC<br>
+<br></p>
 </p>
+
+
+  <img height="200" style="border-radius: 50%;" src="https://github.com/user-attachments/assets/6fcf4ca6-1568-4472-915c-cef7c06337a6">
+
 
 
 
@@ -23,8 +26,8 @@
 
 ### 🌐 Outras redes social que voce pode me encontrar:
  <a href="https://www.linkedin.com/in/
-wallace-d-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@yokaithefato/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wall.araujo_/)  <a href = "mailto:wallacewwc2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+wallace-d-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" target="_blank"></a>  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFF)](https://www.instagram.com/wall.araujo_/) 
+ <a href = "mailto:wallacewwc2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 ## <center> Skills:
 <div align="center">
