@@ -15,6 +15,14 @@
 </p>
 
 
+<p align="justify">
+Atualmente, estou em busca de um estágio ou oportunidades para aplicar e expandir meus conhecimentos técnicos, e estou motivado para contribuir em projetos desafiadores. Minha capacidade de adaptação e meu interesse em novas tecnologias me motivam a buscar constantemente a excelência e a evolução no campo da tecnologia<br>
+<br></p>
+</p>
+
+
+
+
   <img height="200" style="border-radius: 50%;" src="https://github.com/user-attachments/assets/6fcf4ca6-1568-4472-915c-cef7c06337a6">
 
 
